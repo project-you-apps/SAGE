@@ -2427,3 +2427,6 @@
 {"cycle": 35100, "mean": 0.0245, "std": 0.0424352447854375, "min": 0.0, "max": 0.098, "weights": {"vision": 0.0, "language": 0.098, "control": 0.0, "memory": 0.0}}
 {"cycle": 35200, "mean": 0.024875, "std": 0.04308476383827582, "min": 0.0, "max": 0.0995, "weights": {"vision": 0.0, "language": 0.0995, "control": 0.0, "memory": 0.0}}
 {"cycle": 35300, "mean": 0.024875, "std": 0.04308476383827582, "min": 0.0, "max": 0.0995, "weights": {"vision": 0.0, "language": 0.0995, "control": 0.0, "memory": 0.0}}
+{"cycle": 35400, "mean": 0.024875, "std": 0.04308476383827582, "min": 0.0, "max": 0.0995, "weights": {"vision": 0.0, "language": 0.0995, "control": 0.0, "memory": 0.0}}
+{"cycle": 35500, "mean": 0.024625, "std": 0.0426517511363836, "min": 0.0, "max": 0.0985, "weights": {"vision": 0.0, "language": 0.0985, "control": 0.0, "memory": 0.0}}
+{"cycle": 35600, "mean": 0.02475, "std": 0.04286825748732972, "min": 0.0, "max": 0.099, "weights": {"vision": 0.0, "language": 0.099, "control": 0.0, "memory": 0.0}}

@@ -2427,3 +2427,6 @@
 {"c_system": 0.3880407145764711, "c_trust": 0.0245, "c_metabolic": 0.5, "c_salience": 0.8631047638431408, "c_atp": 0.5, "cycle": 35100}
 {"c_system": 0.38995125217579213, "c_trust": 0.024875, "c_metabolic": 0.5, "c_salience": 0.8749666811719473, "c_atp": 0.5, "cycle": 35200}
 {"c_system": 0.3851754125262842, "c_trust": 0.024875, "c_metabolic": 0.5, "c_salience": 0.8431277501752279, "c_atp": 0.5, "cycle": 35300}
+{"c_system": 0.3117591479922483, "c_trust": 0.024875, "c_metabolic": 0.3, "c_salience": 0.8203526532816552, "c_atp": 0.5, "cycle": 35400}
+{"c_system": 0.314915797681083, "c_trust": 0.024625, "c_metabolic": 0.3, "c_salience": 0.8419803178738868, "c_atp": 0.5, "cycle": 35500}
+{"c_system": 0.38810306991356336, "c_trust": 0.02475, "c_metabolic": 0.5, "c_salience": 0.8629371327570892, "c_atp": 0.5, "cycle": 35600}
