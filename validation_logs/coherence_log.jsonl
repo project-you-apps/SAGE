@@ -2430,6 +2430,10 @@
 {"c_system": 0.31321845793771, "c_trust": 0.024625, "c_metabolic": 0.3, "c_salience": 0.8306647195847338, "c_atp": 0.5, "cycle": 252400}
 {"c_system": 0.38869333170455583, "c_trust": 0.025, "c_metabolic": 0.5, "c_salience": 0.8662888780303721, "c_atp": 0.5, "cycle": 252900}
 {"c_system": 0.3840067035888504, "c_trust": 0.025, "c_metabolic": 0.5, "c_salience": 0.8350446905923361, "c_atp": 0.5, "cycle": 253000}
-{"c_system": 0.3188552547730214, "c_trust": 0.02425, "c_metabolic": 0.3, "c_salience": 0.8691183651534762, "c_atp": 0.5, "cycle": 296000}
-{"c_system": 0.31314590431953626, "c_trust": 0.025, "c_metabolic": 0.3, "c_salience": 0.8293060287969084, "c_atp": 0.5, "cycle": 296800}
-{"c_system": 0.38626823689462114, "c_trust": 0.025, "c_metabolic": 0.5, "c_salience": 0.8501215792974743, "c_atp": 0.5, "cycle": 297200}
+{"c_system": 0.31750518783545784, "c_trust": 0.024125, "c_metabolic": 0.3, "c_salience": 0.8604095855697189, "c_atp": 0.5, "cycle": 68700}
+{"c_system": 0.3886747140114754, "c_trust": 0.024875, "c_metabolic": 0.5, "c_salience": 0.8664564267431696, "c_atp": 0.5, "cycle": 68800}
+{"c_system": 0.3852637013921855, "c_trust": 0.024875, "c_metabolic": 0.5, "c_salience": 0.8437163426145701, "c_atp": 0.5, "cycle": 68900}
+{"c_system": 0.3901443535729629, "c_trust": 0.0245, "c_metabolic": 0.5, "c_salience": 0.8771290238197526, "c_atp": 0.5, "cycle": 69000}
+{"c_system": 0.3860438748395384, "c_trust": 0.024875, "c_metabolic": 0.5, "c_salience": 0.8489174989302559, "c_atp": 0.5, "cycle": 69100}
+{"c_system": 0.31511447782157936, "c_trust": 0.024625, "c_metabolic": 0.3, "c_salience": 0.8433048521438626, "c_atp": 0.5, "cycle": 69200}
+{"c_system": 0.31796628092979645, "c_trust": 0.024375, "c_metabolic": 0.3, "c_salience": 0.862900206198643, "c_atp": 0.5, "cycle": 69300}

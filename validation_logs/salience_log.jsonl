@@ -780,362 +780,655 @@
 {"cycle": 253003, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
 {"cycle": 253004, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
 {"cycle": 253005, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295985, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295986, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295987, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295988, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295989, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295990, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295991, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295992, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295993, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295994, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295995, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295996, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295997, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295998, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 295999, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296000, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296001, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296002, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296003, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296004, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296005, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296006, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296007, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296008, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296009, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296010, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296011, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296012, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296013, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296014, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296015, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296016, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296017, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296018, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296019, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296020, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296021, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296022, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296023, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296024, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296025, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296026, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296027, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296028, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296029, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296030, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296031, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296032, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296033, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296034, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296035, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296036, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296037, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296038, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296039, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296040, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296041, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296042, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296043, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296044, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296045, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296046, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296047, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296048, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296049, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296050, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296051, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296052, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296053, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296054, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296055, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296056, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296057, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296058, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296059, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296060, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296061, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296062, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296063, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296064, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296065, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296066, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296067, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296068, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296069, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296070, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296071, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296072, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296073, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296074, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296075, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296076, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296077, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296078, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296079, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296080, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296081, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296770, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296771, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296772, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296773, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296774, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296775, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296776, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296777, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296778, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296779, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296780, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296781, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296782, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296783, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296784, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296785, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296786, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296787, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296788, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296789, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296790, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296791, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296792, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296793, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296794, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296795, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296796, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296797, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296798, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296799, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296800, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296801, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296802, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296803, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296804, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296805, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296806, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296807, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296808, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296809, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296810, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296811, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296812, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296813, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296814, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296815, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296816, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296817, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296818, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296819, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296820, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296821, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296822, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296823, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296824, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296825, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296826, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296827, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296828, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296829, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296830, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296831, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296832, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296833, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296834, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296835, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296836, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296837, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296838, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296839, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296840, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296841, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296842, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296843, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296844, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296845, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296846, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296847, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296848, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296849, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296850, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 296851, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297157, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297158, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297159, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297160, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297161, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297162, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297163, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297164, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297165, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297166, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297167, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297168, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297169, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297170, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297171, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297172, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297173, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297174, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297175, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297176, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297177, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297178, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297179, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297180, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297181, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297182, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297183, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297184, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297185, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297186, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297187, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297188, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297189, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297190, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297191, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297192, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297193, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297194, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297195, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297196, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297197, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297198, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297199, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297200, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297201, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297202, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297203, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297204, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297205, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297206, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297207, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297208, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297209, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297210, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297211, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297212, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297213, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297214, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297215, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297216, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297217, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297218, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297219, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297220, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297221, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297222, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297223, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297224, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297225, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297226, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297227, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297228, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297229, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297230, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297231, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297232, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297233, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297234, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297235, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297236, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297237, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297238, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297239, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297240, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297241, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297242, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297243, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297244, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297245, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297246, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297247, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297248, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297249, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297557, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297558, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297559, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297560, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297561, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297562, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297563, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297564, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297565, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297566, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297567, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297568, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297569, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297570, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297571, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297572, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297573, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297574, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297575, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297576, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297577, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297578, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297579, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297580, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297581, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297582, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297583, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297584, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297585, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297586, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297587, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297588, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297589, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297590, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297591, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297592, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297593, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297594, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297595, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297596, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297597, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297598, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297599, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297600, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297601, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297602, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297603, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297604, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297605, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297606, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297607, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297608, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297609, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297610, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297611, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297612, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297613, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297614, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297615, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297616, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297617, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297618, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297619, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297620, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297621, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297622, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297623, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297624, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297625, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297626, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297627, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297628, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297629, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297630, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297631, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297632, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297633, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297634, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297635, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297636, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297637, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297638, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297639, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297640, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297641, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297642, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
-{"cycle": 297643, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68693, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68694, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68695, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68696, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68697, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68698, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68699, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68700, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68701, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68702, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68703, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68704, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68705, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68706, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68707, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68708, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68709, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68710, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68711, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68712, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68713, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68714, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68715, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68716, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68717, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68718, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68719, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68720, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68721, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68722, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68723, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68724, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68725, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68726, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68727, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68728, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68729, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68730, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68731, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68732, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68733, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68734, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68735, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68736, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68737, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68738, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68739, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68740, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68741, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68742, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68743, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68744, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68745, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68746, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68747, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68748, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68749, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68750, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68751, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68752, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68753, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68754, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68755, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68756, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68757, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68758, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68759, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68760, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68761, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68762, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68763, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68764, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68765, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68766, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68767, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68768, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68769, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68770, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68771, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68772, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68773, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68774, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68775, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68776, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68777, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68778, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68779, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68780, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68781, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68782, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68783, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68784, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68785, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68786, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68787, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68788, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68789, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68790, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68791, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68792, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68793, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68794, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68795, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68796, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68797, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68798, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68799, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68800, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68801, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68802, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68803, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68804, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68805, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68806, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68807, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68808, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68809, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68810, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68811, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68812, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68813, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68814, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68815, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68816, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68817, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68818, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68819, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68820, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68821, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68822, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68823, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68824, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68825, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68826, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68827, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68828, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68829, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68830, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68831, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68832, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68833, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68834, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68835, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68836, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68837, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68838, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68839, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68840, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68841, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68842, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68843, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68844, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68845, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68846, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68847, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68848, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68849, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68850, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68851, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68852, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68853, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68854, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68855, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68856, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68857, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68858, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68859, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68860, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68861, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68862, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68863, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68864, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68865, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68866, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68867, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68868, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68869, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68870, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68871, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68872, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68873, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68874, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68875, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68876, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68877, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68878, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68879, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68880, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68881, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68882, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68883, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68884, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68885, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68886, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68887, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68888, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68889, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68890, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68891, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68892, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68893, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68894, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68895, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68896, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68897, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68898, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68899, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68900, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68901, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68902, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68903, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68904, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68905, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68906, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68907, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68908, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68909, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68910, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68911, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68912, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68913, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68914, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68915, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68916, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68917, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68918, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68919, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68920, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68921, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68922, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68923, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68924, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68925, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68926, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68927, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68928, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68929, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68930, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68931, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68932, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68933, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68934, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68935, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68936, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68937, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68938, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68939, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68940, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68941, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68942, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68943, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68944, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68945, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68946, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68947, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68948, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68949, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68950, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68951, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68952, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68953, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68954, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68955, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68956, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68957, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68958, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68959, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68960, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68961, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68962, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68963, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68964, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68965, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68966, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68967, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68968, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68969, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68970, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68971, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68972, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68973, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68974, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68975, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68976, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68977, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68978, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68979, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68980, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68981, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68982, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68983, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68984, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68985, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68986, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68987, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68988, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68989, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68990, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68991, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68992, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68993, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68994, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68995, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68996, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68997, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68998, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 68999, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69000, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69001, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69002, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69003, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69004, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69005, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69006, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69007, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69008, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69009, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69010, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69011, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69012, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69013, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69014, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69015, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69016, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69017, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69018, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69019, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69020, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69021, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69022, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69023, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69024, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69025, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69026, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69027, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69028, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69029, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69030, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69031, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69032, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69033, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69034, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69035, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69036, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69037, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69038, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69039, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69040, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69041, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69042, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69043, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69044, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69045, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69046, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69047, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69048, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69049, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69050, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69051, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69052, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69053, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69054, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69055, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69056, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69057, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69058, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69059, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69060, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69061, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69062, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69063, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69064, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69065, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69066, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69067, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69068, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69069, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69070, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69071, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69072, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69073, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69074, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69075, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69076, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69077, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69078, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69079, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69080, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69081, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69082, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69083, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69084, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69085, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69086, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69087, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69088, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69089, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69090, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69091, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69092, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69093, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69094, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69095, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69096, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69097, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69098, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69099, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69100, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69101, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69102, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69103, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69104, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69105, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69106, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69107, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69108, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69109, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69110, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69111, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69112, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69113, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69114, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69115, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69116, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69117, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69118, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69119, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69120, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69121, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69122, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69123, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69124, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69125, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69126, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69127, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69128, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69129, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69130, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69131, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69132, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69133, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69134, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69135, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69136, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69137, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69138, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69139, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69140, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69141, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69142, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69143, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69144, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69145, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69146, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69147, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69148, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69149, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69150, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69151, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69152, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69153, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69154, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69155, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69156, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69157, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69158, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69159, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69160, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69161, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69162, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69163, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69164, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69165, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69166, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69167, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69168, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69169, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69170, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69171, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69172, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69173, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69174, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69175, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69176, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69177, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69178, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69179, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69180, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69181, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69182, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69183, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69184, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69185, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69186, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69187, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69188, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69189, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69190, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69191, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69192, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69193, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69194, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69195, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69196, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69197, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69198, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69199, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69200, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69201, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69202, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69203, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69204, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69205, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69206, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69207, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69208, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69209, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69210, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69211, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69212, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69213, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69214, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69215, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69216, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69217, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69218, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69219, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69220, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69221, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69222, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69223, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69224, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69225, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69226, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69227, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69228, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69229, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69230, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69231, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69232, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69233, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69234, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69235, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69236, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69237, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69238, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69239, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69240, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69241, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69242, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69243, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69244, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69245, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69246, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69247, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69248, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69249, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69250, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69251, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69252, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69253, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69254, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69255, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69256, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69257, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69258, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69259, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69260, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69261, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69262, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69263, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69264, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69265, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69266, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69267, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69268, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69269, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69270, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69271, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69272, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69273, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69274, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69275, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69276, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69277, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69278, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69279, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69280, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69281, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69282, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69283, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69284, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69285, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69286, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69287, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69288, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69289, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69290, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69291, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69292, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69293, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69294, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69295, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69296, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69297, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69298, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69299, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69300, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69301, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69302, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69303, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69304, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69305, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69306, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69307, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69308, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69309, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69310, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69311, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69312, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69313, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69314, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69315, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69316, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69317, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69318, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69319, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69320, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69321, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69322, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69323, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69324, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69325, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69326, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69327, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69328, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69329, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69330, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69331, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69332, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69333, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69334, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69335, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69336, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69337, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69338, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69339, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69340, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69341, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69342, "salience_total": [0.09], "salience_components": [{"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69343, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}
+{"cycle": 69344, "salience_total": [0.4600000000000001, 0.09], "salience_components": [{"surprise": 0.4, "novelty": 0.3, "arousal": 0.7, "reward": 0.8, "conflict": 0.1}, {"surprise": 0.1, "novelty": 0.1, "arousal": 0.1, "reward": 0.1, "conflict": 0.05}]}

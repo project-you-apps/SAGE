@@ -2430,6 +2430,10 @@
 {"cycle": 252400, "mean": 0.024625, "std": 0.0426517511363836, "min": 0.0, "max": 0.0985, "weights": {"vision": 0.0, "language": 0.0985, "control": 0.0, "memory": 0.0}}
 {"cycle": 252900, "mean": 0.025, "std": 0.04330127018922194, "min": 0.0, "max": 0.1, "weights": {"vision": 0.0, "language": 0.1, "control": 0.0, "memory": 0.0}}
 {"cycle": 253000, "mean": 0.025, "std": 0.04330127018922194, "min": 0.0, "max": 0.1, "weights": {"vision": 0.0, "language": 0.1, "control": 0.0, "memory": 0.0}}
-{"cycle": 296000, "mean": 0.02425, "std": 0.042002232083545275, "min": 0.0, "max": 0.097, "weights": {"vision": 0.0, "language": 0.097, "control": 0.0, "memory": 0.0}}
-{"cycle": 296800, "mean": 0.025, "std": 0.04330127018922194, "min": 0.0, "max": 0.1, "weights": {"vision": 0.0, "language": 0.1, "control": 0.0, "memory": 0.0}}
-{"cycle": 297200, "mean": 0.025, "std": 0.04330127018922194, "min": 0.0, "max": 0.1, "weights": {"vision": 0.0, "language": 0.1, "control": 0.0, "memory": 0.0}}
+{"cycle": 68700, "mean": 0.024125, "std": 0.041785725732599165, "min": 0.0, "max": 0.0965, "weights": {"vision": 0.0, "language": 0.0965, "control": 0.0, "memory": 0.0}}
+{"cycle": 68800, "mean": 0.024875, "std": 0.04308476383827582, "min": 0.0, "max": 0.0995, "weights": {"vision": 0.0, "language": 0.0995, "control": 0.0, "memory": 0.0}}
+{"cycle": 68900, "mean": 0.024875, "std": 0.04308476383827582, "min": 0.0, "max": 0.0995, "weights": {"vision": 0.0, "language": 0.0995, "control": 0.0, "memory": 0.0}}
+{"cycle": 69000, "mean": 0.0245, "std": 0.0424352447854375, "min": 0.0, "max": 0.098, "weights": {"vision": 0.0, "language": 0.098, "control": 0.0, "memory": 0.0}}
+{"cycle": 69100, "mean": 0.024875, "std": 0.04308476383827582, "min": 0.0, "max": 0.0995, "weights": {"vision": 0.0, "language": 0.0995, "control": 0.0, "memory": 0.0}}
+{"cycle": 69200, "mean": 0.024625, "std": 0.0426517511363836, "min": 0.0, "max": 0.0985, "weights": {"vision": 0.0, "language": 0.0985, "control": 0.0, "memory": 0.0}}
+{"cycle": 69300, "mean": 0.024375, "std": 0.04221873843449138, "min": 0.0, "max": 0.0975, "weights": {"vision": 0.0, "language": 0.0975, "control": 0.0, "memory": 0.0}}
