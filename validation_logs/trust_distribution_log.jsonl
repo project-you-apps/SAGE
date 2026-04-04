@@ -2423,3 +2423,7 @@
 {"cycle": 33100, "mean": 0.025, "std": 0.04330127018922194, "min": 0.0, "max": 0.1, "weights": {"vision": 0.0, "language": 0.1, "control": 0.0, "memory": 0.0}}
 {"cycle": 33900, "mean": 0.025, "std": 0.04330127018922194, "min": 0.0, "max": 0.1, "weights": {"vision": 0.0, "language": 0.1, "control": 0.0, "memory": 0.0}}
 {"cycle": 34000, "mean": 0.025, "std": 0.04330127018922194, "min": 0.0, "max": 0.1, "weights": {"vision": 0.0, "language": 0.1, "control": 0.0, "memory": 0.0}}
+{"cycle": 35000, "mean": 0.025, "std": 0.04330127018922194, "min": 0.0, "max": 0.1, "weights": {"vision": 0.0, "language": 0.1, "control": 0.0, "memory": 0.0}}
+{"cycle": 35100, "mean": 0.0245, "std": 0.0424352447854375, "min": 0.0, "max": 0.098, "weights": {"vision": 0.0, "language": 0.098, "control": 0.0, "memory": 0.0}}
+{"cycle": 35200, "mean": 0.024875, "std": 0.04308476383827582, "min": 0.0, "max": 0.0995, "weights": {"vision": 0.0, "language": 0.0995, "control": 0.0, "memory": 0.0}}
+{"cycle": 35300, "mean": 0.024875, "std": 0.04308476383827582, "min": 0.0, "max": 0.0995, "weights": {"vision": 0.0, "language": 0.0995, "control": 0.0, "memory": 0.0}}

@@ -2423,3 +2423,7 @@
 {"c_system": 0.38844205580453456, "c_trust": 0.025, "c_metabolic": 0.5, "c_salience": 0.8646137053635637, "c_atp": 0.5, "cycle": 33100}
 {"c_system": 0.3834158159833943, "c_trust": 0.025, "c_metabolic": 0.5, "c_salience": 0.8311054398892953, "c_atp": 0.5, "cycle": 33900}
 {"c_system": 0.38241258194343924, "c_trust": 0.025, "c_metabolic": 0.5, "c_salience": 0.8244172129562617, "c_atp": 0.5, "cycle": 34000}
+{"c_system": 0.38323824755641017, "c_trust": 0.025, "c_metabolic": 0.5, "c_salience": 0.8299216503760678, "c_atp": 0.5, "cycle": 35000}
+{"c_system": 0.3880407145764711, "c_trust": 0.0245, "c_metabolic": 0.5, "c_salience": 0.8631047638431408, "c_atp": 0.5, "cycle": 35100}
+{"c_system": 0.38995125217579213, "c_trust": 0.024875, "c_metabolic": 0.5, "c_salience": 0.8749666811719473, "c_atp": 0.5, "cycle": 35200}
+{"c_system": 0.3851754125262842, "c_trust": 0.024875, "c_metabolic": 0.5, "c_salience": 0.8431277501752279, "c_atp": 0.5, "cycle": 35300}
